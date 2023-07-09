@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background-color:#3E3E3E;
+	   font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+      font-size: 15pt
+}
+div{background-color:#FFFFFF;
+margin-left: 150px;
+	margin-right: 150px;}
+img{
+	width: 50%;
+	margin-left: 250px
+}
+li{
+	transition: all  ;
+	
+}
+li :hover{
+	margin-left: 40px;
+	color :aqua
+	
+}
+#kop{
+	width: 1050px ;
+	margin: auto;
+	margin-left: 70px
+	
+}
+.lop{
+	margin-left: 150px;
+	margin-right: 150px;
+	
+}
